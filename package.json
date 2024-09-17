@@ -1,0 +1,23 @@
+{
+  "name": "bookapi",
+  "version": "1.0.0",
+  "description": "Book Management API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krunal-99/book-management-API.git"
+  },
+  "author": "Krunal Pokar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krunal-99/book-management-API/issues"
+  },
+  "homepage": "https://github.com/krunal-99/book-management-API#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}

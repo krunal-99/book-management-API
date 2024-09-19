@@ -6,7 +6,10 @@
             "surname": "Doe",
             "email": "john.doe@example.com",
             "subscriptionType": "Premium",
-            "subscriptionDate": "2023-06-15"
+            "subscriptionDate": "2023-06-15",
+            "issuedBook": "2",
+            "issuedDate": "2024-09-01",
+            "returnDate": "2024-09-15"
         },
         {
             "id": 2,
@@ -22,7 +25,10 @@
             "surname": "Johnson",
             "email": "david.johnson@example.com",
             "subscriptionType": "Basic",
-            "subscriptionDate": "2022-11-03"
+            "subscriptionDate": "2022-11-03",
+            "issuedBook": "4",
+            "issuedDate": "2024-08-10",
+            "returnDate": "2024-08-24"
         },
         {
             "id": 4,
@@ -38,7 +44,10 @@
             "surname": "Brown",
             "email": "michael.brown@example.com",
             "subscriptionType": "Basic",
-            "subscriptionDate": "2024-05-12"
+            "subscriptionDate": "2024-05-12",
+            "issuedBook": "6",
+            "issuedDate": "2024-07-20",
+            "returnDate": "2024-08-03"
         },
         {
             "id": 6,
@@ -54,7 +63,10 @@
             "surname": "Garcia",
             "email": "james.garcia@example.com",
             "subscriptionType": "Premium",
-            "subscriptionDate": "2022-12-27"
+            "subscriptionDate": "2022-12-27",
+            "issuedBook": "8",
+            "issuedDate": "2024-06-15",
+            "returnDate": "2024-06-29"
         },
         {
             "id": 8,
@@ -70,7 +82,10 @@
             "surname": "Lopez",
             "email": "daniel.lopez@example.com",
             "subscriptionType": "Standard",
-            "subscriptionDate": "2024-03-21"
+            "subscriptionDate": "2024-03-21",
+            "issuedBook": "10",
+            "issuedDate": "2024-04-01",
+            "returnDate": "2024-04-15"
         },
         {
             "id": 10,

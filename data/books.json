@@ -1,0 +1,84 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "price": 10.99,
+            "publisher": "Scribner"
+        },
+        {
+            "id": 2,
+            "name": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Fiction",
+            "price": 8.99,
+            "publisher": "J.B. Lippincott & Co."
+        },
+        {
+            "id": 3,
+            "name": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "price": 12.49,
+            "publisher": "Secker & Warburg"
+        },
+        {
+            "id": 4,
+            "name": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "price": 6.99,
+            "publisher": "T. Egerton"
+        },
+        {
+            "id": 5,
+            "name": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Fiction",
+            "price": 9.49,
+            "publisher": "Little, Brown and Company"
+        },
+        {
+            "id": 6,
+            "name": "Moby-Dick",
+            "author": "Herman Melville",
+            "genre": "Adventure",
+            "price": 11.99,
+            "publisher": "Harper & Brothers"
+        },
+        {
+            "id": 7,
+            "name": "War and Peace",
+            "author": "Leo Tolstoy",
+            "genre": "Historical",
+            "price": 14.99,
+            "publisher": "The Russian Messenger"
+        },
+        {
+            "id": 8,
+            "name": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "price": 13.29,
+            "publisher": "George Allen & Unwin"
+        },
+        {
+            "id": 9,
+            "name": "The Odyssey",
+            "author": "Homer",
+            "genre": "Epic",
+            "price": 7.49,
+            "publisher": "Ancient Greece"
+        },
+        {
+            "id": 10,
+            "name": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Dystopian",
+            "price": 10.59,
+            "publisher": "Chatto & Windus"
+        }
+    ]
+}
